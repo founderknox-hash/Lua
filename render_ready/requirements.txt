@@ -1,0 +1,3 @@
+# No third-party Python packages are required by the web wrapper.
+# The Render deployment uses the Dockerfile so Node.js and Linux Luau are
+# installed as part of the image.
